@@ -1,11 +1,10 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+Maak een praatplaat waarin je jouw ontwikkeling van de afgelopen sprints en waar je naartoe wil in de komende sprints, laat zien.
+<br>
 
-# Naam deeltaak
+<h2> Mijn praatplaat:</h2>
 
+Concept: paal met verschillende houdingen die ik vergelijk met de moeilijkheidsgraad van de onderwerpen of persoonlijke uitdagingen in de opleiding. Ik heb 4 palen getekend, 1 paal per blok. Ik begin bij een simpele klim, moet af en toe over afleidende voorwerpen heen klimmen en mijn gedachten kunnen vaak obstakels voor mij zijn. uiteindelijk is dit de definitieve schets geworden en ben ik deze gaan uitwerken. 
 
-## Licentie
+<br>
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+![poledance_drawing](https://user-images.githubusercontent.com/112857444/204303919-baa8b14c-b92e-422c-ab87-f64ef7c10a05.jpg)
